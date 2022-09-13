@@ -1,0 +1,20 @@
+{
+  "name": "filenaming",
+  "version": "1.0.0",
+  "description": "You are given an array of desired filenames in the order of their creation. Since two files cannot have equal names, the one which comes later will have an addition to its name in a form of `(k)`, where `k` is the smallest positive integer such that the obtained name is not used yet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/fileNaming.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/fileNaming/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/fileNaming#readme"
+}
